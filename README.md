@@ -24,7 +24,7 @@ npm run test
 
 ## Author
 
-👤 **https://github.com/mirandaAle**
+
 
 * Github: [@https:\/\/github.com\/mirandaAle](https://github.com/https:\/\/github.com\/mirandaAle)
 
@@ -33,4 +33,3 @@ npm run test
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
