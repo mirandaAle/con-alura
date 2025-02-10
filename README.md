@@ -8,7 +8,16 @@
 
 > Diviertete jugando al amigo secreto
 
-### ✨ [Demo](https://github.com/mirandaAle/con-alura.git)
+<a href="#" target="_blank">
+    <img alt="License: ISC" src="assets/amigo-secreto.png" />
+  </a>
+
+## 🛠 Tecnologías utilizadas  
+
+ 
+- **Node.js** 🚀  
+- **javascript** 📡  
+  
 
 ## Install
 
