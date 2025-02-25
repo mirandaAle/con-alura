@@ -15,7 +15,7 @@
 ## 🛠 Tecnologías utilizadas  
 
  
-- **Node.js** 🚀  
+
 - **javascript** 📡  
   
 
